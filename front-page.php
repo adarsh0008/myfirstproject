@@ -13,7 +13,8 @@
  */
 
 get_header(); ?>
-// this is for the header
+
+// this is for the headertesttjhfj
 	<div id="primary" class="site-content">
 		<div id="content" role="main">
 
