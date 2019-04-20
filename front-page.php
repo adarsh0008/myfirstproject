@@ -13,7 +13,7 @@
  */
 
 get_header(); ?>
-
+// this is for the header
 	<div id="primary" class="site-content">
 		<div id="content" role="main">
 
@@ -25,7 +25,7 @@ get_header(); ?>
 				<?php endif; ?>
 
 				<?php get_template_part( 'content', 'page' ); ?>
-
+<?php echo "test"; ?>
 			<?php endwhile; // end of the loop. ?>
 
 		</div><!-- #content -->
